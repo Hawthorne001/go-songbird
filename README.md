@@ -1,3 +1,6 @@
+
+## DEPRECATION NOTICE: This repository is deprecated due to the transition to the codebase common with the Flare network available at [https://github.com/flare-foundation/go-flare](https://github.com/flare-foundation/go-flare).
+
 # Songbird & Coston 1
 
 Node implementation for the [Flare](https://flare.network) network.
@@ -51,7 +54,7 @@ git clone https://github.com/flare-foundation/go-songbird.git
 cd go-songbird/avalanchego
 ```
 
-This will clone and checkout to `master` branch. 
+This will clone and checkout to `master` branch.
 
 Please build and use the latest tag `0.6.4`
 
